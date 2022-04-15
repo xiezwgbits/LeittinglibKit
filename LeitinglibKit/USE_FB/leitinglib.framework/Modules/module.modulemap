@@ -1,0 +1,6 @@
+framework module leitinglib {
+  umbrella header "leitinglib.h"
+
+  export *
+  module * { export * }
+}
