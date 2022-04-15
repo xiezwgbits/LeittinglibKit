@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "LeitinglibKit"
-  spec.version      = "3.0.0"
+  spec.version      = "3.0.1"
   spec.summary      = "LeitinglibKit is test cocoapods"
 
   # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
    spec.description  = "LeitinglibKit is test cocoapods"
 
-  spec.homepage     = "https://github.com/xiezwgbits/LeitinglibKit"
+  spec.homepage     = "https://github.com/xiezwgbits/LeittinglibKit"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/xiezwgbits/LeitinglibKit.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/xiezwgbits/LeittinglibKit.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
